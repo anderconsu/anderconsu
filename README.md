@@ -30,8 +30,8 @@ of home automation and personal server management.
 ![JSON Web Token](https://img.shields.io/badge/JSON%20Web%20Token-black?logo=jsonwebtokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase%20Admin-%23fccc45?logo=firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2354b245?logo=mongodb&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MySQL-%2300628c?logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/OpenAI%20API-white?logo=openai&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%2300628c?logo=mysql&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-white?logo=openai&logoColor=black)
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-%232391e6?logo=docker&logoColor=white)
@@ -51,4 +51,4 @@ of home automation and personal server management.
 ### OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23e85729?logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23d80150?logo=debian&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Windows-%2300aeef?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%2300aeef?logo=windows&logoColor=white)
