@@ -6,10 +6,10 @@ of home automation and personal server management.
 
 You can find me here 👇
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230e76a8?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanderconsu%2F)
-![Static Badge](https://img.shields.io/badge/Reddit-%23FF5700?logo=reddit&logoColor=white&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fanderconsu)
-![Static Badge](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F141869597463674880)
-![Static Badge](https://img.shields.io/badge/Portfolio-black?logo=superuser&logoColor=white&link=https%3A%2F%2Fcloudconsu.com)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230e76a8?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanderconsu%2F)](https://www.linkedin.com/in/anderconsu/)
+[![Static Badge](https://img.shields.io/badge/Reddit-%23FF5700?logo=reddit&logoColor=white)](https://www.reddit.com/user/anderconsu)
+[![Static Badge](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F141869597463674880)](https://discordapp.com/users/141869597463674880)
+[![Static Badge](https://img.shields.io/badge/Portfolio-black?logo=superuser&logoColor=white&link=https%3A%2F%2Fcloudconsu.com)](https://cloudconsu.com/)
 
 
 
