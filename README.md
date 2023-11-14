@@ -52,3 +52,6 @@ of home automation and personal server management.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23e85729?logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23d80150?logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-%2300aeef?logo=windows&logoColor=white)
+
+#
+![Anderconsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderconsu&theme=dracula)
